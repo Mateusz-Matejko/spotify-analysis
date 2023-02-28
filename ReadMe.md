@@ -8,11 +8,11 @@ This capstone project for [Google Data Analytics Proffesionall Certificate](http
 The purpose of this project is to analayse the [sportify dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) and find out:
 * Is there corelation between song popularity and danceability? 
 * Is there corelation between song popularity and its genre? 
-* How length of song reflect on its popularity. 
-* Is there corelation between song loudness and its popularity? Are louder songs more popular? 
-* Does song tempo affect it's genre. Are songs with bigger tempo more likely to be EDM or Techno, when slower will be more like Jazz. 
 * Is there corelation betweeen acousticness of song and it's genre?  
 * Is there corelation between song tempo and its popularity? 
+* Is there corelation between song loudness and its popularity? Are louder songs more popular? 
+* How length of song reflect on its popularity. 
+* Does song tempo affect it's genre. Are songs with bigger tempo more likely to be EDM or Techno, when slower will be more like Jazz. 
 * What lenghth for song of specific genre makes it more popular?
 * What's the recipe for song with high popularity? 
 
