@@ -51,6 +51,5 @@ The data source for this project comes from [Kaggle](https://www.kaggle.com/data
 
 ## Contact
 * [Github](https://github.com/Mateusz-Matejko)
-* Mail: mateusz.matejkop@gmail.com
 * [LinkedIn](https://www.linkedin.com/mateusz7matejko)
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Feel free to contact me with any questions of any analysis ideas!
